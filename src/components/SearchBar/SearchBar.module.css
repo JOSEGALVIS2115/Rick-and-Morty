@@ -1,0 +1,11 @@
+.contenedor{
+    display: flex;
+    position: sticky;
+    top: 0;
+    background-color: hsl(81, 92%, 45%);
+    padding: 5px;
+    align-items: right;
+    justify-content: flex-end;
+
+    
+}

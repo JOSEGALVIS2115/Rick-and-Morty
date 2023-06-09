@@ -1,0 +1,12 @@
+.contenedor{
+    background-color: bisque;
+    width: 40%;
+    height: 30%;
+    margin: auto;
+    top: 0; left: 0; bottom: 0; right: 0;
+    border: 1px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+}
